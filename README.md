@@ -26,9 +26,5 @@ This Power BI project provides an end-to-end analysis of Swiggy’s food deliver
 - `SwiggyDataAnalysis.pbix` – Power BI Dashboard file  
 - (Optional) `Data/` – Supporting datasets if you want to add later  
 
-## 📸 Dashboard Preview
-*(Upload a screenshot of your dashboard as `dashboard_preview.png`)*
 
-## 👤 Author
-**Utsav Kumar**  
-[GitHub Profile](https://github.com/YOUR_USERNAME)
+
